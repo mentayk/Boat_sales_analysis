@@ -17,7 +17,7 @@
 - Number of views last 7 days
 
 # Resource:
-### Boat Sales, Kaggle
+### Boat Sales, Kaggle https://www.kaggle.com/datasets/karthikbhandary2/boat-sales 
 
 # Tableau link
 https://public.tableau.com/app/profile/mentay.koshzhanova/viz/BoatSales_16999406987160/Story1 
