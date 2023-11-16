@@ -18,3 +18,6 @@
 
 # Resource:
 ### Boat Sales, Kaggle
+
+# Tableau link
+https://public.tableau.com/app/profile/mentay.koshzhanova/viz/BoatSales_16999406987160/Story1 
